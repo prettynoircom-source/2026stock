@@ -17,6 +17,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# 간단한 스타일 커스터마이징
 st.markdown("""
     <style>
     .main .block-container {padding-top: 2rem;}
